@@ -7,7 +7,7 @@ title: "PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Mod
 	<img width="900" src="assets/img/teaser.png" class="center"> 
 </div>>
 <p>
-<strong>PolyDiffuse for floorplan and HD map reconstruction:</strong> Starting from an initial proposal (e.g., from a human annotator or an existing method), the sensor-conditioned denoising process of our Guided Set Diffusion Model (GS-DM) generates shape reconstructions in a few sampling steps, initialized and directed by the guidance networks. The initial proposal above mimics simple human inputs that indicate rough locations and specify the number of vertices  for the polygonal shapes.
+<strong>Figure 1: PolyDiffuse for floorplan and HD map reconstruction:</strong> Starting from an initial proposal (e.g., from a human annotator or an existing method), the sensor-conditioned denoising process of our Guided Set Diffusion Model (GS-DM) generates shape reconstructions in a few sampling steps, initialized and directed by the guidance networks. The initial proposal above mimics simple human inputs that indicate rough locations and specify the number of vertices  for the polygonal shapes.
 </p>
 
 
@@ -25,7 +25,7 @@ Our technical contribution is the introduction of a Guided Set Diffusion Model w
 </div>>
 
 <p style="text-align:center">
-	Illustration of the forward and reverse processes of PolyDiffuse with floorplan data.
+	<strong> Figure 2: </strong>Illustration of the forward and reverse processes of PolyDiffuse with floorplan data.
 </p>
 
 
