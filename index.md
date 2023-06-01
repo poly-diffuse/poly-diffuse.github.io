@@ -24,7 +24,7 @@ Our technical contribution is the introduction of a Guided Set Diffusion Model w
 	<img width="900" src="assets/img/method_figure.png" class="center"> 
 </div>>
 
-<p style="text-align:centor">
+<p style="text-align:center">
 	Illustration of the forward and reverse processes of PolyDiffuse with floorplan data.
 </p>
 
@@ -65,7 +65,7 @@ Our technical contribution is the introduction of a Guided Set Diffusion Model w
 
 # Code / Pre-trained Models
 
-Our code and pre-trained models are available on our [Github repo](https://github.com/woodfrog/poly-diffuse).
+Our code and pre-trained models will be available on our [Github repo](https://github.com/woodfrog/poly-diffuse) soon.
 
 
 # Acknowledgement
