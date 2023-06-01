@@ -3,16 +3,16 @@ layout: default
 title: "PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Models"
 ---
 
-
 <div>
 	<img width="900" src="assets/img/teaser.png" class="center"> 
 </div>>
 <p>
-**PolyDiffuse for floorplan and HD map reconstruction**. Starting from an initial proposal (e.g., from a human annotator or an existing method), the sensor-conditioned denoising process of our Guided Set Diffusion Model (GS-DM) generates shape reconstructions in a few sampling steps, initialized and directed by the guidance networks. The initial proposal above mimics simple human inputs that indicate rough locations and specify the number of vertices  for the polygonal shapes.
+<strong>PolyDiffuse for floorplan and HD map reconstruction:</strong> Starting from an initial proposal (e.g., from a human annotator or an existing method), the sensor-conditioned denoising process of our Guided Set Diffusion Model (GS-DM) generates shape reconstructions in a few sampling steps, initialized and directed by the guidance networks. The initial proposal above mimics simple human inputs that indicate rough locations and specify the number of vertices  for the polygonal shapes.
 </p>
 
 
 # Abstract
+
 <p>
 This paper presents <i>PolyDiffuse</i>, a novel structured reconstruction algorithm that transforms visual sensor data into polygonal shapes with Diffusion Models (DM), an emerging machinery amid exploding generative AI, while formulating reconstruction as a generation process conditioned on sensor data. 
 The task of structured reconstruction poses two fundamental challenges to DM: 1) A structured geometry is a "set" (e.g., a set of polygons for a floorplan geometry), where a sample of \( {N} \) elements has \( {N!} \) different but equivalent representations, making the denoising highly ambiguous; and 2) A "reconstruction" task has a single solution, where an initial noise needs to be chosen carefully, while any initial noise works for a generation task.
@@ -20,14 +20,11 @@ Our technical contribution is the introduction of a Guided Set Diffusion Model w
 </p>
 
 
-# Method Overview
-
-
 <div>
 	<img width="900" src="assets/img/method_figure.png" class="center"> 
 </div>>
 
-<p>
+<p style="text-align:centor">
 	Illustration of the forward and reverse processes of PolyDiffuse with floorplan data.
 </p>
 
