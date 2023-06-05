@@ -38,7 +38,7 @@ Our technical contribution is the introduction of a Guided Set Diffusion Model w
 </div>>
 
 <div class="text-center">
-	<a href="assets/paper.pdf"> Download PDF </a> &nbsp; &nbsp; <a href=""> Arxiv </a> &nbsp; &nbsp; <a href="assets/supp.pdf"> Supplementary </a> &nbsp; &nbsp; 
+	<a href="assets/paper.pdf"> Download PDF </a> &nbsp; &nbsp; <a href="https://arxiv.org/abs/2306.01461"> Arxiv </a> &nbsp; &nbsp; <a href="assets/supp.pdf"> Supplementary </a> &nbsp; &nbsp; 
 	<!-- <a href="assets/poster.pdf"> Poster </a> -->
 </div>
 
