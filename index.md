@@ -12,7 +12,7 @@ title: "PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Mod
 
 
 <div>
-<iframe width="820" height="492" src="https://www.youtube.com/embed/pipJqdbH8XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="820" height="461" src="https://www.youtube.com/embed/pipJqdbH8XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
