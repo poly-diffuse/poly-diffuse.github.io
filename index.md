@@ -60,7 +60,7 @@ title: "PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Mod
 
 # Code / Pre-trained Models
 
-Our code and pre-trained models will be available on our [Github repo](https://github.com/woodfrog/poly-diffuse) soon.
+Check out the code and pre-trained models in our [Github repo](https://github.com/woodfrog/poly-diffuse).
 
 
 # Acknowledgement
